@@ -1,3 +1,6 @@
 [submodule "rift-join"]
 	path = rift-join
 	url = https://github.com/AndrewRoddy/rift-join
+[submodule "riftquire"]
+	path = riftquire
+	url = https://github.com/AndrewRoddy/riftquire

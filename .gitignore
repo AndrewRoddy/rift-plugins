@@ -8,4 +8,11 @@ rift-rust-analyzer/
 rift-splunk/
 rift-term-scroll/
 riftpm/
-riftquire/
+rift-clipboard/
+rift-closetag/
+rift-comment/
+rift-drewgo-theme/
+rift-insert-nonblank/
+rift-rerun/
+docs/
+rift-open-line/
