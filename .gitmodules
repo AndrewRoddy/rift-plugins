@@ -10,3 +10,6 @@
 [submodule "rift-autoindent"]
 	path = rift-autoindent
 	url = https://github.com/AndrewRoddy/rift-autoindent
+[submodule "rift-increment"]
+	path = rift-increment
+	url = https://github.com/AndrewRoddy/rift-increment
