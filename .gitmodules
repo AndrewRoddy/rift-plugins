@@ -4,3 +4,6 @@
 [submodule "riftquire"]
 	path = riftquire
 	url = https://github.com/AndrewRoddy/riftquire
+[submodule "rift-fold"]
+	path = rift-fold
+	url = https://github.com/AndrewRoddy/rift-fold
