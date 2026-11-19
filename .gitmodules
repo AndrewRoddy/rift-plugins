@@ -7,3 +7,6 @@
 [submodule "rift-fold"]
 	path = rift-fold
 	url = https://github.com/AndrewRoddy/rift-fold
+[submodule "rift-autoindent"]
+	path = rift-autoindent
+	url = https://github.com/AndrewRoddy/rift-autoindent
