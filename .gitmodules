@@ -19,3 +19,6 @@
 [submodule "rift-closetag"]
 	path = rift-closetag
 	url = https://github.com/AndrewRoddy/rift-closetag
+[submodule "rift-drewgo-theme"]
+	path = rift-drewgo-theme
+	url = https://github.com/AndrewRoddy/rift-drewgo-theme
