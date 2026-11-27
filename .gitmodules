@@ -13,3 +13,6 @@
 [submodule "rift-increment"]
 	path = rift-increment
 	url = https://github.com/AndrewRoddy/rift-increment
+[submodule "rift-clipboard"]
+	path = rift-clipboard
+	url = https://github.com/AndrewRoddy/rift-clipboard
