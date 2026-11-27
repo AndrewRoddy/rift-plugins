@@ -16,3 +16,6 @@
 [submodule "rift-clipboard"]
 	path = rift-clipboard
 	url = https://github.com/AndrewRoddy/rift-clipboard
+[submodule "rift-closetag"]
+	path = rift-closetag
+	url = https://github.com/AndrewRoddy/rift-closetag
